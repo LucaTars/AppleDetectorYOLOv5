@@ -1,9 +1,13 @@
 Guide:
 1. Run main/download_weights.py (ONLY ONCE!)
 2. Run main/detect_image.py
+
 In the main of detect_image.py, at line
+
 parser.add_argument('--source', type=str, default=PATH, help='source')  # file/folder, 0 for webcam
+
 In PATH you can put a folder or a single image, in case of folder it will detect apples for all images.
+
 Detection results saved in runs/detect.
 
 
