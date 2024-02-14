@@ -1,1 +1,7 @@
 *.pt
+main/*.pt
+*.jpg
+*.png
+*.bmp
+*.jpeg
+*.webp
