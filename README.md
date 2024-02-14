@@ -1,6 +1,5 @@
 Guide:
-1. Run main/download_weights.py (ONLY ONCE!)
-2. Run main/detect_image.py
+1. Run: python3 detect_image.py
 
 In the main of detect_image.py, at line
 
